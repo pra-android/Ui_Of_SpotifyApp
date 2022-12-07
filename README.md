@@ -1,4 +1,4 @@
-# Ui_Of_SpotifyApp
+# UI_OF_SPOTIFY
 It is the UI Design of Spotify App made using flutter. Install on Android , IOS and Web.
 
 ## Widgets Used in this App
