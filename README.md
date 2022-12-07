@@ -1,16 +1,16 @@
-# spotify
+# UI_OF_SPOTIFY
+It is the UI Design of Spotify App made using flutter. Install on Android , IOS and Web.
 
-A new Flutter project.
+## Widgets Used in this App
+1.Bottom Navigation Bar
+2.Cards
+3.Column
+4.Row
+5.CircleAvatar
+6.IconButton
 
-## Getting Started
+### Screenshots of this App
+![image](https://user-images.githubusercontent.com/82046769/206237973-3792a63a-331c-45bd-9b66-5b3adebc1d66.png)
+![image](https://user-images.githubusercontent.com/82046769/206238028-dd00cb38-f63d-43f0-8f76-60d7289d5f39.png)
+![image](https://user-images.githubusercontent.com/82046769/206238066-3da6122b-d5fd-4912-99f5-dd3e3d209b8c.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
